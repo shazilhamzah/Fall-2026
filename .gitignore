@@ -1,1 +1,13 @@
-IS/Assignment1/
+CC/Assignment1/
+
+# IS/Assignment1 - OWASP Juice Shop & heavy build/dependency files
+IS/Assignment1/juice-shop/
+**/node_modules/
+IS/Assignment1/juice-shop/node_modules/
+IS/Assignment1/juice-shop/frontend/
+IS/Assignment1/juice-shop/build/
+IS/Assignment1/juice-shop/data/
+IS/Assignment1/juice-shop/logs/
+IS/Assignment1/juice-shop/*.sqlite*
+IS/Assignment1/report.html
+IS/Assignment1/screenshots/Challenge_*/
